@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding:0 ;
+
+}
+
+body{
+    background-color:hsl(193, 100%, 96%) ;
+}
+
+
+.heading{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60%;
+    margin: 50px;
+    margin-left: 8%;
+    padding: 40px;
+ 
+}
+
+
+.button1{
+    border-radius: 5px;
+    align-content: center;
+   margin: 10px;
+  
+
+}
+
+.heading2{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 15%;
+    justify-content: center;
+    padding: 20px;
+    margin: 50px;
+}
+
+.heading2 img{
+    width: 40%;
+}
+
+.heading2 button{
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: hsl(322, 100%, 66%); 
+    color: white; 
+}
+.header1{
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+
+
+main{
+    margin: 150px;
+    background-color: white;
+    padding: 30px;
+}
+
+.grow{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 50px;
+    padding: 50px;
+    gap: 20%;
+    justify-content: center;
+    border-radius: 10px;
+    border: 0.5px groove black
+}
+
+.grow img{
+    width: 35%;
+}
+
+
+.conversation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 50px;
+    padding: 50px;
+    gap: 20%;
+    justify-content: center;
+    border-radius: 10px;
+    border: 0.5px groove black
+
+}
+
+.conversation img{
+ width: 35%;
+}
+
+.users{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 50px;
+    padding: 50px;
+    gap: 20%;
+    justify-content: center;
+    border-radius: 10px;
+    border: 0.5px groove black
+
+}
+
+.users img{
+ width: 35%;
+}
+
+.free{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 150px;
+    padding: 30px;
+    border-radius: 10px;
+    border: 0.5px groove black
+
+}
+
+.free button{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: hsl(322, 100%, 66%); 
+    color: white;
+}
+
+
+
+footer{
+    background-color:  hsl(192, 100%, 9%);
+    color: white;
+    margin: 150px;
+    padding: 100px;
+}
+
+.footerone{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 20%;
+    margin: 70px;
+    
+}
+
+.fab{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.copyright{
+     text-align:right;
+}
+    
